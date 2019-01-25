@@ -1,0 +1,7 @@
+package com.sergiorosa.comercial.controller;
+
+public class OportunityController {
+	public String lists() {
+		return "Hello Sergio";
+	}
+}

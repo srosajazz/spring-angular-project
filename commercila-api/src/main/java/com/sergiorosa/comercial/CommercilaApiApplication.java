@@ -1,0 +1,14 @@
+package com.sergiorosa.comercial;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CommercilaApiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CommercilaApiApplication.class, args);
+	}
+
+}
+

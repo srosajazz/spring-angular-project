@@ -1,0 +1,12 @@
+package com.sergiorosa.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("/oportunity")
+public class OportunityController {
+
+	public String lists() {
+		return "Hello";
+	}
+}
